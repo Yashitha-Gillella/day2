@@ -1,4 +1,4 @@
 a="yashitha gillella"
 print("The string :",a)
-print("Fetching character g from string using negative indexing")
+print("we are finding -8 indexing value")
 print(a[-8])
